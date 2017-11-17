@@ -1,4 +1,5 @@
-Use [![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) if you need help, have suggestions, etc
+Use [![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FCommand-line-text-processing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FCommand-line-text-processing?ref=badge_shield)
+if you need help, have suggestions, etc
 
 <br>
 
@@ -75,3 +76,6 @@ Includes only completed chapters
 ## <a name="license"></a>License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FCommand-line-text-processing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FCommand-line-text-processing?ref=badge_large)
